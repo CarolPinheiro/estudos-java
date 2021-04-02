@@ -11,6 +11,5 @@ public class ControleBonificacao {
 	public double getSoma() {
 		return soma;
 	}
-	
 
 }
